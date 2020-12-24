@@ -2,6 +2,8 @@
 #include <QApplication> //Cette ligne inclut la définition de la classe QApplication.
 //Il doit y avoir une instance de QApplication dans toute application qui possède une IHM avec Qt.
 //QApplication gère différentes ressources au niveau de l'application, comme la police de caractères par défaut ou le curseur.
+//hello
+//git
 #include <QMessageBox>
 #include <QDebug>
 #include "connexion.h"
